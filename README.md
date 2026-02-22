@@ -182,3 +182,5 @@ Desenvolvedor Full-Stack em especialização
 💻 GitHub: https://github.com/GustavoThe01\
 📧 E-mail: gugaosterno@gmail.com\
 📸 Instagram: https://www.instagram.com/gustavo.osterno
+
+<img width="1403" height="778" alt="image" src="https://github.com/user-attachments/assets/7b72a3b4-380b-45a4-b09d-ab70cf3cfcfb" />
